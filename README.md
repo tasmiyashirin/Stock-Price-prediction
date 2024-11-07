@@ -10,19 +10,19 @@ This project uses machine learning techniques to predict stock prices based on h
 
 ## Installation
 
-### 1. Clone the repository:
+#### 1. Clone the repository:
 
 ```
 git clone https://github.com/tasmiyashirin/Stock-Price-prediction.git
 ```
 
-### 2. Install dependencies: Create a virtual environment (optional, but recommended):
+#### 2. Install dependencies: Create a virtual environment (optional, but recommended):
 
 ```
 python -m venv venv
 ```
 
-#### Activate the virtual environment:
+##### Activate the virtual environment:
 
 - For Windows:
 ```
@@ -33,20 +33,21 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-#### Install the required libraries:
+##### Install the required libraries:
 
 ```
 pip install -r requirements.txt
 ```
 
-### 3. Run the application:
+#### 3. Run the application:
 
 - To run the Streamlit app, use the following command:
 ```
 streamlit run app.py
 ```
 
-### 4. The application should open in your default browser.
+#### 4. The application should open in your default browser.
+
 
 ## Project Structure
 ```
